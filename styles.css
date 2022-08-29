@@ -1,0 +1,51 @@
+h1 {
+  font-family: fantasy;
+}
+
+button {
+  outline: none;
+  border: 10px solid black;
+  font-size: 1rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: white;
+  border-radius: 15px;
+  display: inline-block;
+  width: 12%;
+  height: 150px;
+  text-align: center;
+  margin: 5px;
+}
+
+.mario {
+  background-color: blue;
+}
+
+.button1 {
+  background-color: red;
+}
+
+.sonic {
+  background-color: green;
+}
+
+.button2 {
+  background-color: blue;
+}
+
+.zelda {
+  background-color: yellow;
+}
+
+.button3 {
+  background-color: green;
+}
+
+.metroid {
+  background-color: black;
+}
+
+.button4 {
+  background-color: red;
+}
